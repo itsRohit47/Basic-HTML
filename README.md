@@ -17,6 +17,6 @@ This repository contains a basic HTML page that demonstrates the usage of variou
 To view the HTML page, simply open `index.html` in your web browser.
 
 ```sh
-git clone https://github.com/yourusername/basic-html-page.git
+git clone https://github.com/itsRohit47/Basic-HTML.git
 cd basic-html-page
 open index.html
